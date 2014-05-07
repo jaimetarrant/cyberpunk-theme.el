@@ -291,7 +291,7 @@
    `(eshell-ls-symlink ((,class (:foreground ,cyberpunk-cyan :weight bold))))
 
    ;; flymake
-   `(flymake-errline ((,class (:foreground ,cyberpunk-yellow-1 :background ,cyberpunk-red-1 :weight bold :underline t))))
+   `(flymake-errline ((,class (:foreground ,cyberpunk-white :background ,cyberpunk-red-1 :weight bold :underline t))))
    `(flymake-warnline ((,class (:foreground ,cyberpunk-red-1 :background ,cyberpunk-yellow-1 :weight bold :underline t))))
 
    ;; flyspell
